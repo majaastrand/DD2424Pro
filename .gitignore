@@ -1,6 +1,3 @@
-# Ignore JPEG and JPG files
-*.jpeg
-*.jpg
 
 # Ignore PNG files
 *.png
