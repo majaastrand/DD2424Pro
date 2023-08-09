@@ -1,0 +1,15 @@
+# Ignore JPEG and JPG files
+*.jpeg
+*.jpg
+
+# Ignore PNG files
+*.png
+
+# Ignore GIF files
+*.gif
+
+# Ignore BMP files
+*.bmp
+
+# Ignore TIFF files
+*.tiff
